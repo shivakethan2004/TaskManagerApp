@@ -1,5 +1,9 @@
 # Welcome to your Expo app 👋
 APKLINK:https://expo.dev/artifacts/eas/ePzatYWcFCMeJ5fSYekH8Z.apk
+
+
+IMPORTANT:BEFORE ANYTHING, THE PROVIDER DONOT FUNCTION , I'LL BE ADDING THE FUNCTIONALITY LATER ON PLEASE BARE WITH ME, 
+YOU CAN USE FIRE BASE EMAIL PASSWORD AUTHENTICATION   
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
